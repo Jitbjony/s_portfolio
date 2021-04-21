@@ -287,6 +287,12 @@ h6 {
 		line-height: 24px;
 		margin-bottom: 30px;
 	}
+	#hero {
+		height: 846px;
+		width: 100%;
+		background-position: center;
+	}
+}
 }
 
 /*--------------------------------------------------------------
